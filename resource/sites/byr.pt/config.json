@@ -1,16 +1,16 @@
 {
-  "name": "BYRBT",
+  "name": "BYRPT",
   "timezoneOffset": "+0800",
   "description": "著名教育网PT站点（仅支持ipv6访问与下载），有10大类资源，资源更新快，保种好。",
-  "url": "https://bt.byr.cn/",
-  "icon": "https://bt.byr.cn/favicon.ico",
+  "url": "https://byr.pt",
+  "icon": "https://byr.pt/favicon.ico",
   "tags": [
     "教育网",
     "影视",
     "综合"
   ],
   "schema": "NexusPHP",
-  "host": "bt.byr.cn",
+  "host": "byr.pt",
   "collaborator": "Rhilip",
   "searchEntry": [{
       "entry": "/torrents.php?search=$key$&notnewword=1",
